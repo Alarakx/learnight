@@ -3,4 +3,4 @@ bbb
 ccc
 add
 eeee
-ffff
+Creating a new branch is quick & simple.
